@@ -277,7 +277,7 @@
           "value": "disabled"
         },
         "VnetGwTunnelIngressAlertState": {
-          "value": "false"
+          "value": "true"
         },
         "VnetGwTunnelIngressThreshold": {
           "value": "1"
@@ -2708,7 +2708,7 @@
           "value": "true"
         },
         "WSFCPUPercentageThreshold": {
-          "value": "77"
+          "value": "79"
         },
         "WSFMemoryPercentageAlertSeverity": {
           "value": "2"
