@@ -8,7 +8,7 @@ permissions:
   contents: read
 
 env:
-  Location: "westeuro"
+  Location: "westeurope"
   ManagementGroupPrefix: "trey"
 
 jobs:
